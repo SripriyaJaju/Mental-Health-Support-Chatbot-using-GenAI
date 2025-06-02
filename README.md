@@ -74,7 +74,7 @@ Metric performance supports the effectiveness of domain-specific fine-tuning.
 📦 Setup & Usage
 
 Clone this repository:
-git clone https://github.com/your-username/mental-health-chatbot-gemma.git
+git clone https://github.com/Sripriyajaju/Mental-Health-Support-Chatbot-using-GenAI.git
 
 Install dependencies:
 pip install -r requirements.txt
